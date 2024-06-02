@@ -1,0 +1,11 @@
+Κωδικας java (Κλάσσεις)
+Διαδρομή
+app>src>main>java>com>example>pedri
+
+
+Τα αρχεία Risk_assessment_v1.0 και Project_plan_v1.0 έχουν παραμείνει ίδια.
+
+
+Github Ομαδας
+
+https://github.com/tsakos123/project-TL.git
